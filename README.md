@@ -1,5 +1,4 @@
 # flask-start
-Flask start template
 
 A Minimal Flask Project skeleton
 
